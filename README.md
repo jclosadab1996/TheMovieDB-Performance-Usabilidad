@@ -1,2 +1,2 @@
-# TheMovieDB-Performance-Usabilidad
-Curso de Platzi de API RESTful con apliación creada para performance y usabilidad
+# TheMovieDB_ConsumoAPI
+Este es un proyecto práctico del curso de consumo de API REST con javascript del Platzi.
